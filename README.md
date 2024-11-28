@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<a href="https://linktr.ee/choxaeonian" style="text-decoration: underline;">포트폴리오</a>
 <!--
 **cho-aeonian/cho-aeonian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
